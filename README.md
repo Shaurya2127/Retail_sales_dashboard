@@ -17,7 +17,7 @@ This Power BI project visualizes and analyzes retail sales performance for the y
 Perfect for executive-level overviews, strategic decision making, and retail business reviews.
 
 ## 🔗 GitHub
-[View the repository](https://github.com/Shaurya2127)
+[View the repository](https://github.com/Shaurya2127/Retail_sales_dashboard/tree/main)
 
 ## 🧠 Insights Generated
 - Highest profits from Champions in the East region
